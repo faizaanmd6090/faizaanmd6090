@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 🤝 I’m looking for help with **React and JavaScript**
+- 🤝 I’m looking for help with **React, JavaScript and AWS**
 
 - 👨‍💻 All of my projects are available at [https://faizaanmd6090.github.io/Portfolio/](https://faizaanmd6090.github.io/Portfolio/)
 

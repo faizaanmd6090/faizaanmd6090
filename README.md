@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **faizaanmd6090@gmail.com**
 
+- :globe_with_meridians: Instagram **m.faizaan_**
+
 
 <p align="left">
 </p>
